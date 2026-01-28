@@ -1,4 +1,4 @@
-# Heloo ![bk](https://images.gamebanana.com/img/ico/sprays/67b038cae2b66.gif)
+# Heloo ![bk](bk.gif)
 Here's my about me, if you even care:
 
 https://vuvien.nekoweb.org
